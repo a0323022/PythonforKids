@@ -1,0 +1,99 @@
+Jelinek Python Class
+
+s.f/python - Yammer channel
+3/19/20 - 12/16/2020
+
+Office hours - Fridays 0800 - 0845
+
+Expectations - 80% in person on Wednesdays
+	Weekly - 1-2 hours of videos and a project
+	Stay engaged on Yammer
+	
+Channel on Pluralsight - Learn to Code - Python (Zero to Hero)
+
+2/19/20 - Homework	Watch 1. Course Overview
+	2. Introduction
+	3. The Rules of Programming Languages
+Notes	• Good Pseudocode yields good program
+	        • Break things down into manageable, programmable pieces.
+	• Whitespaces is important
+	        • Python pays attention to spaces, tabs, etc.
+	• Comments - if you have to explain what it's doing, then it is too complicated
+	• Common comments - Todo, fixme, hack
+	• Book - Python for Kids
+	
+2/26/20 - Homework	1. What is Programming Segments
+	2. Working with Data
+	3. Managing Program Flow
+	4. Making Thinks Modular
+	5. Programming in the Real World
+3/4/20 - Homework	1. Python: The Big Picture: 1h 5m
+	2. Core Python: Getting Started
+	        1. Course Overview 1M 39s
+	        2. Installing and Starting Python: 18m 40s  (USE MY INSTRUCTIONS)
+	        3. Scalar Types, Operators, and Control Flow: 12m 38s
+	        4. Introducing Strings, Collections, and Iteration: 18m 56s
+	3. Install Python - Workstation Setup Instruction
+3/18/20	3 Programming assignments
+4/8/20	1. Core Python: Modularity
+	Watch Video Core Python: Getting Started - Modularity 21:22
+	Solve the following problems in VS Code (folder: if-statements)
+	 
+	#1: Twinkies!
+	Create an if statement that checks whether a number of Twinkies (in the variable twinkies) is less than 100 or greater than 500. Your program should print the message “Too few or too many” if the condition is true.
+	 
+	#2: Just the Right Number
+	Create an if statement that checks whether the amount of money contained in the variable money is between 100 and 500 or between 1,000 and 5,000.
+	 
+	#3: I Can Fight Those Ninjas
+	Create an if statement that prints the string “That’s too many” if the variable ninjas contains a number that’s less than 50, prints “It’ll be a struggle, but I can take ’em” if it’s less than 30, and prints “I can fight those ninjas!” if it’s less than 10. 
+	
+4/15/20	4/15 Homework
+	-------------------------
+	#1: Even Numbers
+	Create a loop that prints even numbers until it reaches your year of age or, if your age is an odd number, prints out odd numbers until it reaches your age. 
+	 
+	#2: Your Weight on the Moon
+	If you were standing on the moon right now, your weight would be 16.5 percent of what it is on Earth. You can calculate that by multiplying your Earth weight by 0.165. If you gained a kilo in weight every year for the next 15 years, what would your weight be when you visited the moon each year and at the end of the 15 years? Write a program using a for loop that prints your moon weight for each year.
+	 
+	#3: My Five Favorite Ingredients
+	Create a list containing five different sandwich ingredients, such as the following:
+	>>> ingredients = ['snails', 'leeches', 'gorilla belly-button lint','caterpillar eyebrows', 'centipede toes'] 
+	Now create a loop that prints out the list (including the numbers): Solve this one twice; once with a for loop and once with a while loop
+	 
+	No videos this week. Next week we will cover functions and modules as a group than watch a few more videos.
+	‹ collapse
+4/22/20	4/22 Homework
+	----------------
+	We are going to start another video series, to ensure we are driving home the basics! Please log into degreed and search for Python for Beginners: Learn Python Programming (Python 3). Under the content section you should see the video series that is 173 minutes from Udemy for Business. 
+	 
+	Once you get logged in (use sso token) watch the following segments
+	Section 1: 2 min 
+	Section 2: Python Setup: 20 min 
+	- Watch 3. Python 2 vs Python 3
+	- Skip 4, 5, 6
+	- 7 & 8 - not bad, but not required
+	Section 3: Strings and Variables 33 min
+	- All videos
+	- Quiz
+	- Practice Exercises 1 & 2. 
+	- Practice Exercise 3 - Optional
+	 
+	Next week we will finish up the function conversation and review the exercises from these videos.
+4/30/20	4/30 Homework
+	------------------
+	We will continue with Python for Beginners: Learn Python Programming (Python 3) !
+	• Section 4: Numbers and Math 11min
+	• Section 5: Booleans and Conditionals 13min
+	• Section 6: Functions 12min
+	 
+	Please do all quizzes and exercises.
+5/6/20	5/6 Homework
+	------------------
+	We will continue with Python for Beginners: Learn Python Programming (Python 3) !
+	• Section 7: Lists 21min
+	• Section 8: Dictionaries 12min
+	• Section 8: Tuples 10min
+	 
+	Please do all quizzes and exercises.
+	
