@@ -65,7 +65,7 @@ Notes	• Good Pseudocode yields good program
 	‹ collapse
 4/22/20	4/22 Homework
 	----------------
-	We are going to start another video series, to ensure we are driving home the basics! Please log into degreed and search for Python for Beginners: Learn Python Programming (Python 3). Under the content section you should see the video series that is 173 minutes from Udemy for Business. 
+	We are going to start another video series, to ensure we are driving home the basics! Please log into Degreed and search for Python for Beginners: Learn Python Programming (Python 3). Under the content section you should see the video series that is 173 minutes from Udemy for Business. 
 	 
 	Once you get logged in (use sso token) watch the following segments
 	Section 1: 2 min 
@@ -96,4 +96,9 @@ Notes	• Good Pseudocode yields good program
 	• Section 8: Tuples 10min
 	 
 	Please do all quizzes and exercises.
+5/19/20 5/20 Homework
+	------------------
+	Sorry, I just realized I did not get the homework posted.  The plan was to complete the class on Udemy.  Section 10 	    Files and Section 11 Modules..
+
+
 	
