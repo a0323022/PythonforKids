@@ -96,9 +96,15 @@ Notes	• Good Pseudocode yields good program
 	• Section 8: Tuples 10min
 	 
 	Please do all quizzes and exercises.
-5/19/20 5/20 Homework
+5/19/20 5/13 Homework
 	------------------
 	Sorry, I just realized I did not get the homework posted.  The plan was to complete the class on Udemy.  Section 10 	    Files and Section 11 Modules..
+5/20/2020 Homework
+	------------------
+	We are going back to the pluralsight videos.  Please watch the following in the Core Python: Getting Started	
+	Modularity - 22m 22s (if you have not watched it)
+	Object & Types - 22m 15s
+
 
 
 	
