@@ -11,7 +11,7 @@ Expectations - 80% in person on Wednesdays
 	
 Channel on Pluralsight - Learn to Code - Python (Zero to Hero)
 
-2/19/20 - Homework	Watch 1. Course Overview
+Done - 2/19/20 - Homework	Watch 1. Course Overview
 	2. Introduction
 	3. The Rules of Programming Languages
 Notes	• Good Pseudocode yields good program
@@ -22,12 +22,12 @@ Notes	• Good Pseudocode yields good program
 	• Common comments - Todo, fixme, hack
 	• Book - Python for Kids
 	
-2/26/20 - Homework	1. What is Programming Segments
+Done - 2/26/20 - Homework	1. What is Programming Segments
 	2. Working with Data
 	3. Managing Program Flow
 	4. Making Thinks Modular
 	5. Programming in the Real World
-3/4/20 - Homework	1. Python: The Big Picture: 1h 5m
+Done - 3/4/20 - Homework	1. Python: The Big Picture: 1h 5m
 	2. Core Python: Getting Started
 	        1. Course Overview 1M 39s
 	        2. Installing and Starting Python: 18m 40s  (USE MY INSTRUCTIONS)
