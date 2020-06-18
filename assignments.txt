@@ -34,7 +34,7 @@ Notes	• Good Pseudocode yields good program
 	        3. Scalar Types, Operators, and Control Flow: 12m 38s
 	        4. Introducing Strings, Collections, and Iteration: 18m 56s
 	3. Install Python - Workstation Setup Instruction
-3/18/20	3 Programming assignments
+Done - 3/18/20	3 Programming assignments
 4/8/20	1. Core Python: Modularity
 	Watch Video Core Python: Getting Started - Modularity 21:22
 	Solve the following problems in VS Code (folder: if-statements)
