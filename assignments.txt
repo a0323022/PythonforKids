@@ -104,6 +104,10 @@ Notes	• Good Pseudocode yields good program
 	We are going back to the pluralsight videos.  Please watch the following in the Core Python: Getting Started	
 	Modularity - 22m 22s (if you have not watched it)
 	Object & Types - 22m 15s
+	
+6/10/2020 Homework
+        ------------------
+Pluralsight - Watch videos 7, 8, and 9
 
 
 
