@@ -35,7 +35,7 @@ Done - 3/4/20 - Homework	1. Python: The Big Picture: 1h 5m
 	        4. Introducing Strings, Collections, and Iteration: 18m 56s
 	3. Install Python - Workstation Setup Instruction
 Done - 3/18/20	3 Programming assignments
-4/8/20	1. Core Python: Modularity
+Done - 4/8/20	1. Core Python: Modularity
 	Watch Video Core Python: Getting Started - Modularity 21:22
 	Solve the following problems in VS Code (folder: if-statements)
 	 
