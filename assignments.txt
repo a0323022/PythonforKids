@@ -48,7 +48,7 @@ Done - 4/8/20	1. Core Python: Modularity
 	#3: I Can Fight Those Ninjas
 	Create an if statement that prints the string “That’s too many” if the variable ninjas contains a number that’s less than 50, prints “It’ll be a struggle, but I can take ’em” if it’s less than 30, and prints “I can fight those ninjas!” if it’s less than 10. 
 	
-4/15/20	4/15 Homework
+Done - 4/15/20 - Homework
 	-------------------------
 	#1: Even Numbers
 	Create a loop that prints even numbers until it reaches your year of age or, if your age is an odd number, prints out odd numbers until it reaches your age. 
@@ -63,7 +63,7 @@ Done - 4/8/20	1. Core Python: Modularity
 	 
 	No videos this week. Next week we will cover functions and modules as a group than watch a few more videos.
 	‹ collapse
-4/22/20	4/22 Homework
+4/22/20	4/22 - Homework
 	----------------
 	We are going to start another video series, to ensure we are driving home the basics! Please log into Degreed and search for Python for Beginners: Learn Python Programming (Python 3). Under the content section you should see the video series that is 173 minutes from Udemy for Business. 
 	 
