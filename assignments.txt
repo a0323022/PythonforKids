@@ -98,8 +98,8 @@ Done - 4/15/20 - Homework
 	Please do all quizzes and exercises.
 5/19/20 5/13 Homework
 	------------------
-	Sorry, I just realized I did not get the homework posted.  The plan was to complete the class on Udemy.  Section 10 	    Files and Section 11 Modules..
-5/20/2020 Homework
+	Sorry, I just realized I did not get the homework posted.  The plan was to complete the class on Udemy.  Section 10 Files and Section 11 Modules..
+ Done - 5/20/2020 Homework
 	------------------
 	We are going back to the pluralsight videos.  Please watch the following in the Core Python: Getting Started	
 	Modularity - 22m 22s (if you have not watched it)
@@ -108,6 +108,10 @@ Done - 4/15/20 - Homework
 6/10/2020 Homework
         ------------------
 Pluralsight - Watch videos 7, 8, and 9
+
+7/22/2020 & 7/29/2020 Homework
+-------------------------
+PluralSight - complete the interactive session  Python: Using Lists, Dictionaries, Loops, Files, and Modules
 
 
 
