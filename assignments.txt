@@ -11,7 +11,7 @@ Expectations - 80% in person on Wednesdays
 	
 Channel on Pluralsight - Learn to Code - Python (Zero to Hero)
 
-2/19/20 - Homework	Watch 1. Course Overview
+Done - 2/19/20 - Homework	Watch 1. Course Overview
 	2. Introduction
 	3. The Rules of Programming Languages
 Notes	• Good Pseudocode yields good program
@@ -22,20 +22,20 @@ Notes	• Good Pseudocode yields good program
 	• Common comments - Todo, fixme, hack
 	• Book - Python for Kids
 	
-2/26/20 - Homework	1. What is Programming Segments
+Done - 2/26/20 - Homework	1. What is Programming Segments
 	2. Working with Data
 	3. Managing Program Flow
 	4. Making Thinks Modular
 	5. Programming in the Real World
-3/4/20 - Homework	1. Python: The Big Picture: 1h 5m
+Done - 3/4/20 - Homework	1. Python: The Big Picture: 1h 5m
 	2. Core Python: Getting Started
 	        1. Course Overview 1M 39s
 	        2. Installing and Starting Python: 18m 40s  (USE MY INSTRUCTIONS)
 	        3. Scalar Types, Operators, and Control Flow: 12m 38s
 	        4. Introducing Strings, Collections, and Iteration: 18m 56s
 	3. Install Python - Workstation Setup Instruction
-3/18/20	3 Programming assignments
-4/8/20	1. Core Python: Modularity
+Done - 3/18/20	3 Programming assignments
+Done - 4/8/20	1. Core Python: Modularity
 	Watch Video Core Python: Getting Started - Modularity 21:22
 	Solve the following problems in VS Code (folder: if-statements)
 	 
@@ -48,7 +48,7 @@ Notes	• Good Pseudocode yields good program
 	#3: I Can Fight Those Ninjas
 	Create an if statement that prints the string “That’s too many” if the variable ninjas contains a number that’s less than 50, prints “It’ll be a struggle, but I can take ’em” if it’s less than 30, and prints “I can fight those ninjas!” if it’s less than 10. 
 	
-4/15/20	4/15 Homework
+Done - 4/15/20 - Homework
 	-------------------------
 	#1: Even Numbers
 	Create a loop that prints even numbers until it reaches your year of age or, if your age is an odd number, prints out odd numbers until it reaches your age. 
@@ -63,7 +63,7 @@ Notes	• Good Pseudocode yields good program
 	 
 	No videos this week. Next week we will cover functions and modules as a group than watch a few more videos.
 	‹ collapse
-4/22/20	4/22 Homework
+4/22/20	4/22 - Homework
 	----------------
 	We are going to start another video series, to ensure we are driving home the basics! Please log into Degreed and search for Python for Beginners: Learn Python Programming (Python 3). Under the content section you should see the video series that is 173 minutes from Udemy for Business. 
 	 
@@ -98,12 +98,20 @@ Notes	• Good Pseudocode yields good program
 	Please do all quizzes and exercises.
 5/19/20 5/13 Homework
 	------------------
-	Sorry, I just realized I did not get the homework posted.  The plan was to complete the class on Udemy.  Section 10 	    Files and Section 11 Modules..
-5/20/2020 Homework
+	Sorry, I just realized I did not get the homework posted.  The plan was to complete the class on Udemy.  Section 10 Files and Section 11 Modules..
+ Done - 5/20/2020 Homework
 	------------------
 	We are going back to the pluralsight videos.  Please watch the following in the Core Python: Getting Started	
 	Modularity - 22m 22s (if you have not watched it)
 	Object & Types - 22m 15s
+	
+6/10/2020 Homework
+        ------------------
+Pluralsight - Watch videos 7, 8, and 9
+
+7/22/2020 & 7/29/2020 Homework
+-------------------------
+PluralSight - complete the interactive session  Python: Using Lists, Dictionaries, Loops, Files, and Modules
 
 
 
